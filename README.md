@@ -1,12 +1,4 @@
----
-title: "Analysis of Car Insurance Cold Calls using ALE and PD Plots"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
+# Analysis of Car Insurance Cold Calls using ALE and PD Plots
 
 This Github Repository is used via Binder (https://mybinder.org/) to show a .ipynb Notebook that analyses the Car Insurance Cold Calls Data, especially showing the usage of Accumulated Local Effects Plots and Partial Dependence Plots in R.
 
